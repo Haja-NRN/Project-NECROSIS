@@ -4,6 +4,7 @@ build/
 dist/
 keys/
 received_data/
+__pycache__
 
 # Fichier 
 .env
