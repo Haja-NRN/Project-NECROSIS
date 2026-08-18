@@ -1,0 +1,13 @@
+# Dossier
+.venv
+build/
+dist/
+keys/
+received_data/
+
+# Fichier 
+.env
+NECROSIS_DEBUG.spec
+necrosis.exe
+necrosis.spec
+main_mutated.py
