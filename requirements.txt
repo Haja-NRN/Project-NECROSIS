@@ -1,0 +1,5 @@
+cryptography==50.0.0
+psutil==7.2.2
+flask
+requests
+pyinstaller==6.22.1
